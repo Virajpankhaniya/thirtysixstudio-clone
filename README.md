@@ -1,12 +1,44 @@
-# React + Vite
+# Thirtysixstudio Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Thirtysixstudio Clone** project! This is a React application that mimics the design and functionality of the original Thirtysixstudio website, enhanced with smooth animations using GSAP (GreenSock Animation Platform) and smooth scrolling powered by the `locomotivemtl` package.
 
-Currently, two official plugins are available:
+![Screenshot 1](./screenshots/screenshot1.png)
+![Screenshot 2](./screenshots/screenshot2.png)
+![Screenshot 3](./screenshots/screenshot3.png)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/Virajpankhaniya/thirtysixstudio-clone/blob/main/src/assets/Untitled%20design.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
 
-## Expanding the ESLint configuration
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Responsive design
+- Smooth animations powered by GSAP
+- Smooth scrolling using `locomotivemtl`
+- Interactive UI/UX components
+- Optimized for performance
+
+## Technologies Used
+
+- React
+- GSAP
+- Locomotive Scroll
+- CSS
+- JavaScript
+- HTML
+
+## Getting Started
+
+To get started with this project, follow the instructions below to set up the development environment on your local machine:
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/thirtysixstudio-clone.git
+cd thirtysixstudio-clone
