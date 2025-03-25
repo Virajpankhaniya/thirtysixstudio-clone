@@ -2,9 +2,9 @@
 
 Welcome to the **Thirtysixstudio Clone** project! This is a React application that mimics the design and functionality of the original Thirtysixstudio website, enhanced with smooth animations using GSAP (GreenSock Animation Platform) and smooth scrolling powered by the `locomotivemtl` package.
 
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
-![Screenshot 3](./screenshots/screenshot3.png)
+![Screenshot 1](https://github.com/Virajpankhaniya/thirtysixstudio-clone/blob/main/src/assets/Screenshot%202025-03-25%20150125.png)
+![Screenshot 2](https://github.com/Virajpankhaniya/thirtysixstudio-clone/blob/main/src/assets/Screenshot%202025-03-25%20150139.png)
+![Screenshot 3](https://github.com/Virajpankhaniya/thirtysixstudio-clone/blob/main/src/assets/Screenshot%202025-03-25%20150144.png)
 [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/Virajpankhaniya/thirtysixstudio-clone/blob/main/src/assets/Untitled%20design.gif)
 
 ## Table of Contents
